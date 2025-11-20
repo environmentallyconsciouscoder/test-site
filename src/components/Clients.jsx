@@ -1,26 +1,18 @@
 import Image from "next/image";
-import logoBrightPath from "../images/clients/bright-path/logo-light.svg";
-import logoFamilyFund from "../images/clients/family-fund/logo-light.svg";
-import logoGreenLife from "../images/clients/green-life/logo-light.svg";
-import logoHomeWork from "../images/clients/home-work/logo-light.svg";
-import logoMailSmirk from "../images/clients/mail-smirk/logo-light.svg";
-import logoNorthAdventures from "../images/clients/north-adventures/logo-light.svg";
-import logoPhobiaLight from "../images/clients/phobia/logo-light.svg";
-import logoUnseal from "../images/clients/unseal/logo-light.svg";
 import Container from "./Container";
 import FadeIn, { FadeInStagger } from "./FadeIn";
 import DigitsContent from "./Digits";
 
 
 const clients = [
-  ["Phobia", logoPhobiaLight],
-  ["Family Fund", logoFamilyFund],
-  ["Unseal", logoUnseal],
-  ["Mail Smirk", logoMailSmirk],
-  ["Home Work", logoHomeWork],
-  ["Green Life", logoGreenLife],
-  ["Bright Path", logoBrightPath],
-  ["North Adventures", logoNorthAdventures],
+  // ["Phobia", logoPhobiaLight],
+  // ["Family Fund", logoFamilyFund],
+  // ["Unseal", logoUnseal],
+  // ["Mail Smirk", logoMailSmirk],
+  // ["Home Work", logoHomeWork],
+  // ["Green Life", logoGreenLife],
+  // ["Bright Path", logoBrightPath],
+  // ["North Adventures", logoNorthAdventures],
 ];
 
 const Metrics = [

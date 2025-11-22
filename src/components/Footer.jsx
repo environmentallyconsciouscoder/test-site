@@ -56,7 +56,7 @@ const Footer = () => {
     <Container as="footer" className="mt-24 w-full sm:mt-32 lg:mt-40">
       <FadeIn>
         <div className="grid grid-cols-1 gap-x-8 gap-y-16 lg:grid-cols-2">
-          {/* <FooterNavigation /> */}
+          <FooterNavigation />
           <div className="flex lg:justify-end">
             {/* <NewsletterForm /> */}
           </div>

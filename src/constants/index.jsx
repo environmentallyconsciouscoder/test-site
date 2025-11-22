@@ -18,13 +18,20 @@ export const navigation = [
   //   ],
   // },
   {
-    title: "Company",
+    title: "",
     links: [
-      { title: "About", href: "" },
-      { title: "Process", href: "" },
-      { title: "Blog", href: "" },
-      { title: "Contact us", href: "" },
+      { title: "", href: "" },
+      { title: "", href: "" },
+      { title: "", href: "" },
+      { title: "", href: "" },
     ],
+        // title: "Company",
+    // links: [
+    //   { title: "About", href: "" },
+    //   { title: "Process", href: "" },
+    //   { title: "Blog", href: "" },
+    //   { title: "Contact us", href: "" },
+    // ],
   },
   {
     title: "Connect",

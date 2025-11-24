@@ -36,7 +36,7 @@ const Header = ({
 <button
   onClick={() =>
     window.open(
-      "https://main.d3ewcy7gxrfmms.amplifyapp.com/signin",
+      "https://dev.d3ewcy7gxrfmms.amplifyapp.com/signin",
       "_blank",
       "noopener,noreferrer"
     )

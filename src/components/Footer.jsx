@@ -71,7 +71,7 @@ const Footer = () => {
             </Logo>
           </Link>
             <p className="text-sm text-white">
-              © RetroSet Inc. {new Date().getFullYear()} | Company No. 16175556
+              © RetroSet Inc. {new Date().getFullYear()}
             </p>
         </div>
       </FadeIn>
